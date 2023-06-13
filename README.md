@@ -17,9 +17,9 @@ When clicked, the full widget will be expanded. The full widget will show your l
 <h4>Detailed Information</h4>
 When these are clicked, a window showing more detailed weather information such as highs and lows, sunrise, sunset, UV index, and more are displayed. This window can be moved within the widget.
 <div>&nbsp</div>
-<div><img src = "./github-images/details1.png" style="height: 450px;"><img src = "./github-images/details2.png" style="height: 450px;"></div>
+<div><img src = "./github-images/details1.png" style="height: 450px; width: 450px;"><img src = "./github-images/details2.png" style="height: 450px; width: 450px;"></div>
 <h4>Day/Night Transition</h4>
 Between 6a and 6p local time, the widget will display a cloudy day background. Between 6p and 6a, it will display a moon.
 <div>&nbsp</div>
-<div><img src="./github-images/dayWidget.png" style="height: 450px;"><img src="./github-images/nightWidget.png" style="height: 450px;"></div>
+<div><img src="./github-images/dayWidget.png" style="height: 450px; width: 450px;"><img src="./github-images/nightWidget.png" style="height: 450px; width: 450px;"></div>
 
