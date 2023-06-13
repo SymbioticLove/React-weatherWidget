@@ -76,10 +76,10 @@ const WeatherWidget = () => {
         .querySelector('.detailed-weather')
         .getBoundingClientRect();
   
-      const minX = widgetBounds.left - 71; // Adjust the horizontal boundary by shifting it 125px to the left
-      const maxX = widgetBounds.right - windowBounds.width - 71; // Adjust the horizontal boundary by shifting it 125px to the left
-      const minY = widgetBounds.top - 28; // Adjust the vertical boundary by shifting it 125px up
-      const maxY = widgetBounds.bottom - windowBounds.height - 28; // Adjust the vertical boundary by shifting it 125px up
+      const minX = widgetBounds.left - 88; // Adjust the horizontal boundary by shifting it 125px to the left
+      const maxX = widgetBounds.right - windowBounds.width - 88; // Adjust the horizontal boundary by shifting it 125px to the left
+      const minY = widgetBounds.top - 30; // Adjust the vertical boundary by shifting it 125px up
+      const maxY = widgetBounds.bottom - windowBounds.height - 30; // Adjust the vertical boundary by shifting it 125px up
   
       const clampedX = Math.min(Math.max(newX, minX), maxX);
       const clampedY = Math.min(Math.max(newY, minY), maxY);
