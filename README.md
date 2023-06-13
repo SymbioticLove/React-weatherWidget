@@ -1,4 +1,4 @@
-<h1>React weatherWidget Component</h1>
+<h1>React weatherWidget Component Powered by WeatherAPI</h1>
 This is a weatherWidget component creataed using WeatherAPI. In it's minimized state, it is approximately 60px by 60px and when expanded, approximately
 500px by 500px. It does not yet have mobile compatibility, but if you are so inclined it should be easy to add with media-queries targeting screens under 600px. You may also need to modify the minimize behavior, as it currently minimizes to the top left corner of the widget.
 <div>&nbsp</div>
